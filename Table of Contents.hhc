@@ -30,6 +30,15 @@
 				<param name="Local" value="EscritoriosDSICCredentials.htm">
 				</OBJECT>
 		</UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="No puedo acceder a la VPN del DSIC">
+			<param name="Local" value="VPNDSICBug.htm">
+			</OBJECT>
 	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Conexiones SSH">
+		<param name="Local" value="SSHManualConnections.htm">
+		<param name="ImageNumber" value="1">
+		</OBJECT>
 </UL>
 </BODY></HTML>
