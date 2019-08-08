@@ -1,0 +1,20 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AccesoUPV.chm
+Contents file=Table of Contents.hhc
+Default topic=AccesoUPV.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0xc0a Español (España, internacional)
+Title=Acceso UPV
+
+
+[FILES]
+AccesoUPV.htm
+EscritoriosDSICCredentials.htm
+DSIC.htm
+EscritoriosDSIC.htm
+
+[INFOTYPES]
+
